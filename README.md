@@ -4,7 +4,7 @@ A mock signup webpage that allows the user to subscribe to company newsletter.
 ## Table content
 
 - [Deployement](#deployement)
-- [Built With](#built with)
+- [Built With](#built-with)
 - [Author](#author)
 - [Acknowledgement](#acknowledgement)
 
