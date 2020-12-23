@@ -4,6 +4,10 @@ A mock signup webpage that allows the user to subscribe to company newsletter.
 ## Table content
 
 - [Deployement](#heading)
+- [Built With](#heading-1)
+- [Author](#heading-2)
+- [Acknowledgement](#heading-3)
+
 
 
 ## Deployement
@@ -18,7 +22,7 @@ Deployed website: https://secret-bayou-28217.herokuapp.com/
 * HTML
 * CSS
 * JavaScript
-* jQuery
+* Node
 
 ## Author
 Raviteja K https://github.com/ravi1998-source
