@@ -3,10 +3,10 @@ A mock signup webpage that allows the user to subscribe to company newsletter.
 
 ## Table content
 
-- [Deployement](#heading)
-- [Built With](#heading-1)
-- [Author](#heading-2)
-- [Acknowledgement](#heading-3)
+- [Deployement](#deployement)
+- [Built With](#built with)
+- [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 
 
